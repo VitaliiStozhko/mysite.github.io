@@ -1,0 +1,305 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@100..900&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="style/main.css">
+
+</head>
+<body>
+    <header class="container header">
+        <div class="header__box">
+<div class="header__box">
+    <a href="index.html">
+    </a>
+</div>
+<a class="logo" href="index.html">
+<img src="img/logo.svg" alt="logo">
+UpDate
+</a>
+<nav class="nav">
+<ul class="nav__list">
+<li> 
+<a class="link" href="#">Courses</a>
+</li>
+<li> 
+<a class="link" href="#">Teachers</a>
+</li>
+<li> 
+<a class="link" href="#">Blog</a>
+</li>
+</ul>
+</nav>
+</div>
+<div class="button__box">
+<a class="header__link" href="#">En</a>    
+<a class="header__link" href="#">Sign In</a>
+<a class="header__button" href="#">Trial free</a>
+</div>
+   
+    </header>
+    <main>
+
+        <section class="offer container">
+              <div class="offer__holder">
+                <p class="offer__times">6 months</p>
+                <p class="offer__profession">profession:</p>
+                <h1 class="offer__title" id="heading" style="color: #19191c;">UI/UX designer 
+                </h1>
+                <p class="offer__descrition">You will learn how to create a brand identity on the web and for printing. Learn how to work in Illustrator, Photoshop, InDesign and Figma.
+                    Add posters, logos, merch design and other strong projects to your portfolio. Start a career in the studio or freelance.
+                </p>
+                <button class="button">Started
+                </button>
+                <p class="offer__sale">25%</p>
+                <p class="offer__time"> 
+                    <time>
+                        17 Days 17:44:16
+                    </time>
+                    </p>
+                </div>
+                
+                <div class="offer__list__container">
+                    <ul class="offer__list">
+                        <li class="InVision">InVision</li>
+                        <li class="Prootpie">ProtoPie</li>
+                        <li class="miro">Miro</li>
+                        <li class="photoshop">Photoshop</li>
+                        <li class="figma">Figma</li>
+                        <li class="illustrator">Illustrator</li>
+                    </div>
+                
+            </ul>
+            
+                    
+
+
+
+        </section>
+
+        <section class="learn">
+            <div class="learn__text">
+<h2 class="learn__title">Profession
+    UI/UX designer</h2>
+<p class="learn__descrition">At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis  occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga.</p>
+            </div>
+            <div class="learn__counter">
+                <div class="learn__counter__price">
+                <p class="learn__counter__number">
+                    5 000 $
+                </p>
+                <p class="laern__counter__description">Salary</p>
+                </div>
+                <div class="learn__counter">
+                    <div class="learn__counter__price">
+                    <p class="learn__counter__number">
+                        4 225
+                    </p>
+                    <p class="laern__counter__description">Vacancies</p>
+                    </div>
+                    <div class="stickers">
+                        <div class="portfolio">
+                            <p class="portfolio__title">Portfolio</p>
+                            <p class="portfolio__title__descrition">You will learn how to create a brand identity on the web and for printing. Learn how to work in Illustrator, Photoshop, InDesign and Figma</p>
+                        </div>
+                        <div class="intership">
+                            <p class="Internship__title">Internship</p>
+                            <p class="intership__description">You will learn how to create a brand identity on the web and for printing. Learn how to work in Illustrator, Photoshop, InDesign and Figma</p>
+                        </div>
+                        <div class="Certificate">
+                            <p class="certificate__title">Certificate</p>
+                            <p class="Certificate__descrition">You will learn how to create a brand identity on the web and for printing. Learn how to work in Illustrator, Photoshop, InDesign and Figma</p>
+                        </div>
+                        </div>
+                </div>
+            </div>
+
+
+        </section>
+        <section class="discover">
+            <h2 class="discover__title">
+                Discover Our Prices
+            </h2>
+            <div class="discover__cards">
+                <article class="discover__card__item">
+                <h3 class="discover__card__title">Base</h3>
+                <ul class="base__description">
+                    <li>Et dolorum fuga et harum quidem rerum</li>
+                    <li>Mentors and community support</li>
+                    <li>Necessitatibus saepe</li>
+                    <li>Ut aut reiciendis</li>
+                </ul>
+                <p class="price__tag">
+                <h3 class="price">12 000$</h3>
+                </p>
+            <h2 class="price__cost">3 000$</h2>
+            <button class="base__button">Choose</button>
+        </article>
+            <article class="discover__card__item">
+                <h3 class="discover__card__title">Optimal</h3>
+                <ul class="optimal__description">
+                    <li>Rerum hic tenetur a sapiente</li>
+                    <li>Consectetur, adipisci velit</li>
+                    <li>Ut aliquid ex ea commodi consequatur</li>
+                    <li>Eum fugiat quo voluptas nulla</li>
+                    <li>Illo inventore veritatis et quasi architecto</li>
+                </ul>
+                <p class="price__tag">
+                    <h3 class="price">24 000$</h3>
+                </p>
+            <h2 class="price__cost">6 000$</h2>
+            <button class="base__button">Choose</button>
+
+                </article>                
+                
+                <article class="discover__card__item">
+                    <h3 class="discover__card__title">Premium</h3>
+                    <ul class="premium__description">
+                        <li>Ullamco laboris nisi ut</li>
+                        <li>Voluptate velit esse cillum</li>
+                        <li>Qui in ea voluptate velit esse quam nihil molestiae</li>
+                        <li>Necessitatibus saepe eveniet</li>
+                        <li>Sunt in culpa qui officia</li>
+                    </ul>
+                    <p class="price__tag">
+                        <h3 class="price">64 000$</h3>
+                    </p>
+                <h2 class="price__cost">18 000$</h2>
+                <button class="base__button">Choose</button>
+    
+                    </article>
+                </article>
+            </div>
+        </section>
+    </main>
+
+    <footer class="footer">
+        <div class="footer__box">
+<div class="footer__box">
+    <a href="index.html">
+    </a>
+    <section class="footer">
+        <div>
+        <a class="footer__title" href="index.html">
+            <img src="img/logo2.png" alt="logo">
+            UpDate
+        </a>
+     
+        <div><a class="footer__support" href="mailto:support@update.com">support@update.com
+
+        </a>
+        <div><a class="footer__support" href="tel:12136771024">+1 (213) 677 10 24
+
+        </a>
+    </div>    
+        </div>
+    </div>
+    <div class="sitemap">
+        <h6 class="sitemap__title">Courses</h6>
+ <div class="sitemap__list">
+    <li>
+        <a>
+            Animation
+        </a>
+    </li>    <li>
+        <a>
+            Design
+        </a>
+    </li>
+    <li>
+        <a>
+            Illustration
+        </a>
+    </li>
+            <li>
+                <a>
+                    Programming
+                </a>
+            </li>
+            <li>
+                <a>
+                    Photo & Film
+                </a>
+            </li>
+            <li>
+                <a>
+                    Marketing
+                </a>
+            </li></ul>
+
+ </div>
+        
+        </div>
+  
+        <div class="sitemap">
+            <h6 class="sitemap__title">Teachers</h6>
+            <ul class="sitemap__list"> 
+                <li>
+                    <a>All Teachers</a>
+                </li>
+                <li>
+                    <a>Become a Teacher 
+                    </a>
+                </li>
+               </ul>
+        </div>
+        <div class="sitemap">
+            <h6 class="sitemap__title">Information</h6>
+            <ul class="sitemap__list"> 
+                <li>
+                    <a>
+                        Blog
+                    </a>
+                </li>
+                <li>
+                    <a>
+                        About us 
+                    </a>
+                </li>
+                <li>
+                    <a>
+                        FAQ 
+                    </a>
+                </li>
+        </ul>
+        </div>
+        <div class="sitemap">
+            <h6 class="sitemap__title">En</h6>
+            <ul class="sitemap__list"> 
+                <li>
+                    <a>
+                        English
+                    </a>
+                </li>
+                <li>
+                    <a>
+                        French 
+                    </a>
+                </li>
+                <li>
+                    <a>
+                        Russian 
+                    </a>
+                </li>
+                </li></ul>
+
+            </div>
+             
+        </nav>  
+      
+    </section>
+    <div class="copyright">
+        <a>Policy privacy</a>
+        <a>Copyright 2022. All rights reserved</a>
+    </div>
+   
+</section>
+    
+
+</footer>
+</body>
+</html>
